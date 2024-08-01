@@ -54,3 +54,5 @@
         Publicação de um documento Quarto online
 
 ## Referências Bibliográficas
+[R for Data Science (2e)](https://r4ds.hadley.nz/)
+[Análises Ecológicas no R](https://analises-ecologicas.com/)
