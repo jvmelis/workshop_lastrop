@@ -36,21 +36,21 @@
         Colaboração em projetos: pull requests e issues
 
 ### Sexta (09/08): Relatórios com Rmarkdown e Quarto
-O que é RMarkdown e Quarto?
+    O que é RMarkdown e Quarto?
         Visão geral e benefícios de Rmarkdown
         Diferenças e semelhanças de Quarto com RMarkdown
         Benefícios e usos do Quarto
-Criação de Documentos RMarkdown
-    Estrutura básica de um documento RMarkdown
-    Cabeçalho YAML
-    Blocos de código (chunks) e inline code
-    Texto formatado (Markdown)
-Renderização de Documentos
-    Renderização para diferentes formatos (HTML, PDF, Word)
-    Configurações de output
-Exemplos Práticos
-    Criação de um documento RMarkdown básico
-    Inclusão de texto, código R, e resultados de código
-    Publicação de um documento Quarto online
+    Criação de Documentos RMarkdown
+        Estrutura básica de um documento RMarkdown
+        Cabeçalho YAML
+        Blocos de código (chunks) e inline code
+        Texto formatado (Markdown)
+    Renderização de Documentos
+        Renderização para diferentes formatos (HTML, PDF, Word)
+        Configurações de output
+    Exemplos Práticos
+        Criação de um documento RMarkdown básico
+        Inclusão de texto, código R, e resultados de código
+        Publicação de um documento Quarto online
 
 ## Referências Bibliográficas
