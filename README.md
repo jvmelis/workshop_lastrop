@@ -1,6 +1,16 @@
-# workshop_lastrop
+# WORKSHOPS LASTROP
  Workshops de R realizados no LASTROP-ESALQ-USP
-## Organização do I Workshop
+ 
+## Orientações iniciais
+
+1. Baixar [R](https://www.r-project.org/)
+
+2. Baixar [RStudio IDE](https://posit.co/products/open-source/rstudio/)
+
+3. [Abrir uma conta no GitHub](https://github.com/login)
+
+## Tidyverse + GitHub
+Organização do I Workshop
 
 ### Terça (06/08): Introdução ao R e tidyverse
     Introdução ao R e ao RStudio
@@ -53,6 +63,19 @@
         Inclusão de texto, código R, e resultados de código
         Publicação de um documento Quarto online
 
-## Referências Bibliográficas
-[R for Data Science (2e)](https://r4ds.hadley.nz/)
-[Análises Ecológicas no R](https://analises-ecologicas.com/)
+## Referências Bibliográficas y otras cositas
+
+[R for Data Science (2e)](https://r4ds.hadley.nz/): Escrito pelo criador do Tidyverse, é a principal referência atual no R.
+As [R-ladies-SP](https://linktr.ee/rladies_sp) tem realizado [lives](https://www.youtube.com/c/RLadiesS%C3%A3oPaulo/streams) periodicamente para discutir e realizar a tradução desse livro em pt-br
+
+[Análises Ecológicas no R](https://analises-ecologicas.com/): Escrito por pesquisadores brasileiros, mostra as principais análises que são realizadas na área da ecologia (em pt-br)
+
+[Bookdown](https://www.bookdown.org/): Muitos livros gratuitos voltados para o R
+
+[R-Brasil](https://t.me/rbrasiloficial): Comunidade no Telegram onde você pode fazer perguntas e tirar suas dúvidas. O pessoal não se acalma até ter a sua dúvida resolvida.
+
+[Ciências Ambientais + Dados](https://chat.whatsapp.com/H4iqRqQICaSD9ebHPdyRGm): Comunidade no whatsapp ara juntar as pessoas que trabalham/pesquisam/se interessam nessa intersecção, e ir trocando experiências sobre ciência de dados aplicada às ciências ambientais. Quando entrar, se apresente :D
+
+[Materiais sobre Environmental Data Science](https://github.com/beatrizmilz/Environmental-Data-Science): página com links de materiais organizados por Beatriz Milz (R-lady)
+
+[Programando em Shiny](https://programando-em-shiny.curso-r.com/): Página que ensina a fazer shiny, que é uma integração entre navegação pela internet, interatividade e R.
