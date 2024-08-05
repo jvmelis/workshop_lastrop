@@ -113,7 +113,8 @@ character (string), numeric(double/integer), lógicos, NULL, NA, NaN, vector, ma
 
 ## Exercícios
 
-[Material - Inventário florestal zoado]()
+Baixar o arquivo [toy_Inventroy.xlsx](https://github.com/jvmelis/workshop_lastrop/blob/main/Dia_1_IntroR_DataManagement/toy_Inventory.xlsx)
+
 
 ## Material de apoio:
 
