@@ -9,6 +9,10 @@
 
 3. [Abrir uma conta no GitHub](https://github.com/login)
 
+4. Instalar o [git]()
+
+5. 
+
 ## Tidyverse + GitHub
 Organização do I Workshop
 
@@ -65,7 +69,7 @@ Organização do I Workshop
 
 ## Referências Bibliográficas y otras cositas
 
-[R for Data Science (2e)](https://r4ds.hadley.nz/): Escrito pelo criador do Tidyverse, é a principal referência atual no R.
+[R for Data Science (2e)](https://r4ds.hadley.nz/): Escrito pelo criador do Tidyverse, é a principal referência atual no R. (em inglês)
 As [R-ladies-SP](https://linktr.ee/rladies_sp) tem realizado [lives](https://www.youtube.com/c/RLadiesS%C3%A3oPaulo/streams) periodicamente para discutir e realizar a tradução desse livro em pt-br
 
 [Análises Ecológicas no R](https://analises-ecologicas.com/): Escrito por pesquisadores brasileiros, mostra as principais análises que são realizadas na área da ecologia (em pt-br)
@@ -75,6 +79,9 @@ As [R-ladies-SP](https://linktr.ee/rladies_sp) tem realizado [lives](https://www
 [R-Brasil](https://t.me/rbrasiloficial): Comunidade no Telegram onde você pode fazer perguntas e tirar suas dúvidas. O pessoal não se acalma até ter a sua dúvida resolvida.
 
 [Ciências Ambientais + Dados](https://chat.whatsapp.com/H4iqRqQICaSD9ebHPdyRGm): Comunidade no whatsapp ara juntar as pessoas que trabalham/pesquisam/se interessam nessa intersecção, e ir trocando experiências sobre ciência de dados aplicada às ciências ambientais. Quando entrar, se apresente :D
+
+[Happy Git and GitHub for the useR](https://happygitwithr.com/): livro digital onde é mostrado o passo a passo para realizar a instalação do Git e o uso do Git e Github com o R e Rstudio. (em inglês)
+
 
 [Materiais sobre Environmental Data Science](https://github.com/beatrizmilz/Environmental-Data-Science): página com links de materiais organizados por Beatriz Milz (R-lady)
 
