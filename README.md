@@ -16,11 +16,12 @@
 6. 
 
 ## Tidyverse + GitHub
+
 Organização do I Workshop
 
 Horário: 9:00 até as 11:00
 
-**Sou pontual para começar**
+**SOU PONTUAL PARA COMEÇAR**
 
 ### Terça (06/08): Introdução ao R e tidyverse
 #### Local: Sala do silêncio
