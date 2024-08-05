@@ -9,7 +9,7 @@
 
 3. [Abrir uma conta no GitHub](https://github.com/login)
 
-4. Para quem tem Windows, instalar o [git](https://gitforwindows.org/). Usuários linux e Mac já possuem em seus computadores. Para mais informações, tem um passo a passo [aqui](https://happygitwithr.com/install-git) 
+4. Para quem tem Windows, instalar o [git](https://gitforwindows.org/). Usuários linux e Mac já possuem em seus computadores. Para mais informações, tem um passo a passo [aqui](https://happygitwithr.com/install-git) (em inglês) ou [este](https://analisemacro.com.br/data-science/conectando-git-github-e-rstudio-em-3-passos/) (em pt-br) ou [este](https://natanaelsl.com.br/post/git-github-iniciantes/)  (também em pt-br)
 
 5. 
 
