@@ -3,20 +3,28 @@
  
 ## Orientações iniciais
 
-1. Baixar [R](https://www.r-project.org/)
+1. Trazer seu próprio computador
 
-2. Baixar [RStudio IDE](https://posit.co/products/open-source/rstudio/)
+2. Baixar [R](https://www.r-project.org/)
 
-3. [Abrir uma conta no GitHub](https://github.com/login)
+3. Baixar [RStudio IDE](https://posit.co/products/open-source/rstudio/)
 
-4. Para quem tem Windows, instalar o [git](https://gitforwindows.org/). Usuários linux e Mac já possuem em seus computadores. Para mais informações, tem um passo a passo [aqui](https://happygitwithr.com/install-git) (em inglês) ou [este](https://analisemacro.com.br/data-science/conectando-git-github-e-rstudio-em-3-passos/) (em pt-br) ou [este](https://natanaelsl.com.br/post/git-github-iniciantes/)  (também em pt-br)
+4. [Abrir uma conta no GitHub](https://github.com/login)
 
-5. 
+5. Para quem tem Windows, instalar o [git](https://gitforwindows.org/). Usuários linux e Mac já possuem em seus computadores. Para mais informações, tem um passo a passo [aqui](https://happygitwithr.com/install-git) (em inglês) ou [este](https://analisemacro.com.br/data-science/conectando-git-github-e-rstudio-em-3-passos/) (em pt-br) ou [este](https://natanaelsl.com.br/post/git-github-iniciantes/)  (também em pt-br)
+
+6. 
 
 ## Tidyverse + GitHub
 Organização do I Workshop
 
+Horário: 9:00 até as 11:00
+
+**Sou pontual para começar**
+
 ### Terça (06/08): Introdução ao R e tidyverse
+#### Local: Sala do silêncio
+
     Introdução ao R e ao RStudio
     Visão geral do tidyverse
         O que é o tidyverse
@@ -29,6 +37,7 @@ Organização do I Workshop
         Operações de join (left_join, inner_join, etc.)
 
 ### Quarta (07/08): Visualização de dados com ggplot2
+    
     Introdução ao ggplot2
         Conceitos básicos de visualização de dados
         Estrutura do ggplot2
@@ -39,6 +48,7 @@ Organização do I Workshop
         Tratamento de erros de importação
 
 ### Quinta (08/08): Introdução ao Git e GitHub
+    
     Conceitos básicos de controle de versão
         O que é Git e por que usar
         Comandos básicos do Git: init, add, commit, status, log
@@ -50,6 +60,7 @@ Organização do I Workshop
         Colaboração em projetos: pull requests e issues
 
 ### Sexta (09/08): Relatórios com Rmarkdown e Quarto
+    
     O que é RMarkdown e Quarto?
         Visão geral e benefícios de Rmarkdown
         Diferenças e semelhanças de Quarto com RMarkdown
