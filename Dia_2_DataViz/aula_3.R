@@ -118,48 +118,53 @@ ggplot(inventory_clean,                          # camada 1 - dados brutos
 ggplot(inventory_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point() +
-  facet_wrap(~plot_id)
+  facet_wrap(~plot_id)                          # camada 6 - facetas
 
 ggplot(inventory_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point() +
-  facet_grid(.~plot_id)
+  facet_grid(.~plot_id)                        # faceta distribuindo no eixo x
 
 ggplot(inventory_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point() +
-  facet_grid(plot_id~.)
+  facet_grid(plot_id~.)                        # faceta distribuindo no eixo y
 
 byplot_clean <- dplyr::left_join(inventory_clean, byplot)
 
 ggplot(byplot_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point() + 
-  facet_grid(Forest_type ~typology )
+  facet_grid(Forest_type ~ typology )          # faceta distribuindo nos eixos x e y
 
+# Eh possivel atribuir o ggplot como objeto e ir atribuindo novas camadas
 grafico <- ggplot(byplot_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point() + 
   facet_grid(Forest_type ~typology ) 
 
 grafico +
-  theme_linedraw()
-
+  theme_linedraw()  # camada 8 - temas
 grafico +
   theme_bw()
+
 grafico +
   theme_minimal()
 
-grafico <-ggplot(inventory_clean,                          
+grafico <- ggplot(inventory_clean,                          
        aes(x = htot_numero, y = dbh_cm_numero))+ 
   geom_point()
 grafico
 grafico +
   scale_y_log10()+
   scale_x_log10()
+
+# Grafico Boxplot
 ggplot(byplot_clean,                          
        aes(y = dbh_cm_numero, x = typology))+ 
   geom_boxplot() +
   scale_y_log10()
+
+## Consultar data-to-viz para fazer graficos
 
 # byplot_clean |> esquisse::esquisser()
