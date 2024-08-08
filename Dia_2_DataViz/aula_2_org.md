@@ -30,6 +30,8 @@ Camada 8 - temas theme*(): controla a aparência visual dos elementos do gráfic
 
 ## Material de Apoio
 
+[Data to viz](https://www.data-to-viz.com/#histogram): galeria de gráficos com códigos para serem gerados pelo ggplot
+
 [cap. 6 - Visualização de dados](https://analises-ecologicas.com/cap6)
 
 [Data Carpentry - Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html)
