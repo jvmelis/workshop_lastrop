@@ -144,6 +144,7 @@ grafico <- ggplot(byplot_clean,
   facet_grid(Forest_type ~typology ) 
 
 grafico +
+  scale_y_discrete()+
   theme_linedraw()  # camada 8 - temas
 grafico +
   theme_bw()
